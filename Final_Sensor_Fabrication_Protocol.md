@@ -92,10 +92,10 @@ Fifty percent of Silicone Part A and Silicone Part B are reserved for fabricatio
 
 ```text
 STL/
-├── NCCF_Top.stl
-├── NCCF_Bottom.stl
-├── Silicone_Top.stl
-└── Silicone_Bottom.stl
+├── NCCF_Top.STL
+├── NCCF_Bottom.STL
+├── Silicone_Top.STL
+└── Silicone_Bottom.STL
 
 images/
 └── Final_Sensor.png
