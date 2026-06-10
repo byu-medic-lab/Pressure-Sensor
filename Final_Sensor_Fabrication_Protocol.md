@@ -8,8 +8,6 @@ This document describes the fabrication process used to create a flexible conduc
 
 # Sensor Structure
 
-![Sensor Structure](images/Sensor_Diagram_GitHub.png)
-
 ### Layer Description
 
 1. **Silicone Tubing Core** – Fluid path used for pressure transmission.
