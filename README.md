@@ -34,6 +34,7 @@ Pressure-Sensor/
     Pressure_Resistance_Characterization_Setup.md
     Sensor_Fabrication_Protocol.md
     Sensor_Behavior.md
+    Introduction.md
   images/
     Final_Sensor.png
     Fluke_Multimeter.jpg
