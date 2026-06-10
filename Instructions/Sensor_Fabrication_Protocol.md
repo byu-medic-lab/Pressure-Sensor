@@ -91,13 +91,13 @@ Fifty percent of Silicone Part A and Silicone Part B are reserved for fabricatio
 ## Repository Structure
 
 ```text
-STL/
+Pressure-Sensor/STL/
 ├── NCCF_Top.STL
 ├── NCCF_Bottom.STL
 ├── Silicone_Top.STL
 └── Silicone_Bottom.STL
 
-images/
+Pressure-Sensor/images/
 └── Final_Sensor.png
 ```
 
