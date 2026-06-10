@@ -1,18 +1,2 @@
-# Lab Pressure and Strain Calibrator
-
-Stage 1 implements the initial project structure and a simulation-first PyQt6 GUI.
-
-Run the app:
-
-```powershell
-python main.py
-```
-
-Run tests:
-
-```powershell
-python -m pytest
-```
-
-Simulation mode is enabled by default so the application can launch without connected hardware.
-
+# Pressure-Sensor
+This project was created to find the relationship between resistance and pressure in a sensor created from a conductive polymer composite. To find this relationship, a test fixture was created with a manometer, syringe pump, pressure sensor, and digital multimeter.
