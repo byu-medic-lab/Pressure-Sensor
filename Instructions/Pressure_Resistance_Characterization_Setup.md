@@ -103,7 +103,7 @@ Mount both stopcocks using hot glue such that:
 - The fluid path is visible
 - The CPC sensor can be installed between them
 
-Reference: `3D_Setup`
+Reference: Pressure-Sensor/images/Sensor_Setup.jpg
 
 ---
 
@@ -120,7 +120,7 @@ Before beginning testing:
 3. Verify that the luer fittings are securely attached.
 4. Inspect the sensor for visible defects or damage.
 
-Reference: `CPC_Sensor_Fabrication`
+Reference: Pressure-Sensor/images/Sensor_Setup.jpg
 
 ---
 
@@ -157,7 +157,7 @@ Connect:
 - One female luer fitting to the upstream stopcock
 - One female luer fitting to the downstream stopcock
 
-Reference: `Sensor_Testing`
+Reference: Pressure-Sensor/images/Sensor_Setup.jpg
 
 ---
 
@@ -182,7 +182,7 @@ The tubing diameter is not critical because pressure is determined by water colu
 2. Connect the adapter to a three-way stopcock.
 3. Connect the stopcock to the pressure transducer assembly.
 
-Reference: `Manometer`
+Reference: Pressure-Sensor/images/Manometer.jpg
 
 ---
 
@@ -232,11 +232,7 @@ Connect the pressure transducer wiring to the SparkFun Qwiic Scale according to 
 
 The Arduino Nano communicates with the SparkFun Qwiic Scale and transmits pressure measurements to the data acquisition software.
 
-Reference Images:
-
-- `Pressure_Sensor_Breadboard_1`
-- `Pressure_Sensor_Breadboard_2`
-- `Pressure_Sensor_Breadboard_3`
+Reference: Pressure-Sensor/images/Pressure_Sensor.jpg
 
 ---
 
@@ -255,7 +251,7 @@ Reference Images:
 3. Connect the opposite end of the tubing to the stopcock mounted on the base.
 4. Verify that all fluidic connections are secure and that the system forms a continuous path between the syringe, manometer, pressure transducer, and CPC sensor.
 
-Reference: `Syringe_Pump`
+Reference: Pressure-Sensor/images/Syringe_Pump.jpg
 
 ---
 
@@ -275,7 +271,7 @@ Reference: `Syringe_Pump`
 
 This configuration allows accurate resistance measurements while minimizing lead resistance effects.
 
-Reference: `Fluke_Digital_Multimeter`
+Reference: Pressure-Sensor/images/Fluke_Multimeter.jpg
 
 ---
 
