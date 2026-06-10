@@ -38,7 +38,7 @@ This document describes the fabrication process used to create a flexible conduc
 
 ## Fabrication Materials
 
-- Silicone tubing (approximately 3 mm inner diameter)
+- Silicone tubing (approximately 3 mm inner diameter and 5 mm outer diameter)
 - Trigger clamps
 - Stainless steel rod or needle stock sized to fit through the tubing lumen
 - Scale
@@ -100,7 +100,7 @@ STL/
 └── Silicone_Bottom.stl
 
 images/
-└── Sensor_Diagram_GitHub.png
+└── Final_Sensor.png
 ```
 
 ---
@@ -200,21 +200,3 @@ A successfully fabricated sensor should meet the following requirements:
 - Outer silicone layer fully encapsulates the conductive composite
 - Sensor can be removed from the mold without tearing
 
----
-
-# Final Sensor
-
-Add photographs of:
-- Finished sensor
-- Conductive sheath before encapsulation
-- Mold assembly process
-
-These images should be stored in the repository's images folder.
-
----
-
-# Revision History
-
-| Version | Date | Description |
-|---------|---------|---------|
-| 1.0 | Initial Release | First documented fabrication protocol |
