@@ -1,0 +1,19 @@
+[project]
+name = "lab-pressure-strain-calibrator"
+version = "0.1.0"
+description = "PyQt6 desktop application for pressure and strain calibration workflows."
+requires-python = ">=3.11"
+dependencies = [
+    "PyQt6>=6.6",
+    "pyserial>=3.5",
+]
+
+[project.optional-dependencies]
+test = [
+    "pytest>=8.0",
+]
+
+[tool.pytest.ini_options]
+pythonpath = ["."]
+testpaths = ["tests"]
+

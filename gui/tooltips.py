@@ -1,0 +1,25 @@
+"""Centralized tooltip strings for user-facing controls."""
+
+TOOLTIPS = {
+    "refresh_ports": "Refresh the list of available serial ports.",
+    "connect": "Connect this device using the selected serial settings.",
+    "disconnect": "Disconnect this device and stop its acquisition safely.",
+    "test_connection": "Attempt a lightweight protocol check for this device.",
+    "port": "Select the serial port for this device. SIM runs without hardware.",
+    "baud": "Serial baud rate for this device.",
+    "start_acquisition": "Start simulated pressure and Fluke acquisition.",
+    "stop_acquisition": "Stop simulated data acquisition.",
+    "safe_abort": "Immediately stop pump motion and end the active test state.",
+    "mode": "Select the active workflow mode.",
+    "experiment_id": "Identifier used in run metadata and output filenames.",
+    "operator_notes": "Freeform notes saved with run metadata.",
+    "output_folder": "Folder where CSV data and metadata will be written.",
+    "calibration_level": "Known current manometer water-column level in cm H2O.",
+    "fit_coefficients": "Fit and save calibration coefficients from accepted points.",
+    "pump_rate": "Syringe plunger movement rate for automated movement.",
+    "pump_direction": "Pump direction: infuse or withdraw.",
+    "pump_mode": "Pump movement mode.",
+    "start_pressure": "Closed-loop start pressure target in mmHg.",
+    "stop_pressure": "Closed-loop stop pressure target in mmHg.",
+    "volume_increment": "Movement increment for syringe calibration.",
+}

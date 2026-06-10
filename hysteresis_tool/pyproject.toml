@@ -1,0 +1,6 @@
+[project]
+name = "hysteresis-graph-tool"
+version = "0.1.0"
+description = "Standalone hysteresis SVG generator for lab pressure/resistance CSV points."
+requires-python = ">=3.11"
+dependencies = []
